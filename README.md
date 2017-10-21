@@ -13,8 +13,8 @@ Jorge Morejon
 Adjust a program so that it can calculate the taxes depending on which type of income household it comes from
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://jam15k.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. Learned how to make a clear button - setting everything to 0 when pressed
